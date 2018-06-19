@@ -1,0 +1,46 @@
+{
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Oliver Klemencic",
+      "url": "https://github.com/oklemencic"
+    },
+    {
+      "name": "Joseph Livecchi",
+      "url": "https://github.com/joewashear007"
+    },
+    {
+      "name": "Michael Randolph",
+      "url": "https://github.com/mrand01"
+    },
+    {
+      "name": "Tiger Oakes",
+      "url": "https://github.com/NotWoods"
+    },
+    {
+      "name": "Brian Martinson",
+      "url": "https://github.com/bmartinson"
+    },
+    {
+      "name": "Rogerio Teixeira",
+      "url": "https://github.com/RogerioTeixeira"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for FabricJS (Fork)",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "fabric-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwshim/fabric-types.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.1",
+  "version": "1.5.36"
+}
