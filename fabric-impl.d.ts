@@ -2678,7 +2678,9 @@ export class Line {
 }
 
 interface IObjectOptions {
+    
     id?: string;
+    events?: any[];
     /**
      * Type of an object (rect, circle, path, etc.).
      * Note that this property is meant to be read-only and not meant to be modified.
