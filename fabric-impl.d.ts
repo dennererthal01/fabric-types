@@ -3214,6 +3214,12 @@ export class Object {
      * @param [propertiesToInclude] Any properties that you might want to additionally include in the output
      */
     toObject(propertiesToInclude?: string[]): any;
+    
+    /**
+     * Returns an object representation of an instance
+     * @param [propertiesToInclude] Any properties that you might want to additionally include in the output
+     */
+    fromObject(json: any): void;
 
     /**
      * Returns (dataless) object representation of an instance
